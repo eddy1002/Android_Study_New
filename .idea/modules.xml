@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_Study.iml" filepath="$PROJECT_DIR$/Android_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickcode01/quickcode01.iml" filepath="$PROJECT_DIR$/quickcode01/quickcode01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickcode02/quickcode02.iml" filepath="$PROJECT_DIR$/quickcode02/quickcode02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickcodegeneric/quickcodegeneric.iml" filepath="$PROJECT_DIR$/quickcodegeneric/quickcodegeneric.iml" />
+    </modules>
+  </component>
+</project>

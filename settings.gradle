@@ -1,1 +1,1 @@
-include ':app', ':quickcode01', ':quickcode02', ':quickcodegeneric'
+include ':app', ':quickcode01', ':quickcode02', ':quickcodegeneric', ':quickcodesensor'

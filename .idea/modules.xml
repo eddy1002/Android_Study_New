@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/quickcode01/quickcode01.iml" filepath="$PROJECT_DIR$/quickcode01/quickcode01.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickcode02/quickcode02.iml" filepath="$PROJECT_DIR$/quickcode02/quickcode02.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickcodegeneric/quickcodegeneric.iml" filepath="$PROJECT_DIR$/quickcodegeneric/quickcodegeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickcodesensor/quickcodesensor.iml" filepath="$PROJECT_DIR$/quickcodesensor/quickcodesensor.iml" />
     </modules>
   </component>
 </project>

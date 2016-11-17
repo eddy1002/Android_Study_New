@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/quickcode01" />
             <option value="$PROJECT_DIR$/quickcode02" />
             <option value="$PROJECT_DIR$/quickcodegeneric" />
+            <option value="$PROJECT_DIR$/quickcodesensor" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
